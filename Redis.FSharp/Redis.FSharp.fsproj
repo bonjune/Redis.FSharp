@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="StackExchange.Redis" Version="2.2.4" />
+    <PackageReference Include="TaskBuilder.fs" Version="2.1.0" />
   </ItemGroup>
 
 </Project>
